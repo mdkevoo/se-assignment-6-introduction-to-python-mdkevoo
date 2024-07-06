@@ -298,6 +298,8 @@ print(f.readline()
    3. https://www.datacamp.com/tutorial/modules-in-python
    4. https://www.almabetter.com/bytes/tutorials/python/exception-handling
    5. https://copyassignment.com/python-a-function-that-accepts-2-integers-and-adds-them-and-returns-their-sum/
+
+   
 # Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide code snippets or complete scripts where applicable.
